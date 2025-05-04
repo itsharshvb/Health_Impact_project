@@ -73,12 +73,14 @@ This will install all the libraries listed in the `requirements.txt` file (e.g.,
 
 To start the FastAPI backend, run the following command:
 
+Go to src folder
+
 ```bash
 cd backend/src
 ```
 
 ```bash
-uvicorn src.main:app --reload
+uvicorn main:app --reload
 ```
 
 - This will start the FastAPI application, with auto-reload enabled, so it will restart the server automatically when you make code changes.
