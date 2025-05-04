@@ -1,6 +1,4 @@
-Here's a `README.md` template to guide you through starting your FastAPI backend. This includes instructions for setting up the virtual environment, activating it, installing dependencies, and running the FastAPI application.
 
----
 
 # Health Impact Prediction Backend Setup
 
@@ -109,4 +107,3 @@ This will return you to your global Python environment.
 
 ---
 
-Let me know if you need any more details or adjustments!
